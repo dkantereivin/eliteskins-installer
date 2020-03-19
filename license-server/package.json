@@ -1,0 +1,25 @@
+{
+  "name": "license-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkantereivin/eliteskins-installer.git"
+  },
+  "author": "DKanterEivin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dkantereivin/eliteskins-installer/issues"
+  },
+  "homepage": "https://github.com/dkantereivin/eliteskins-installer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.18.2",
+    "uid-generator": "^2.0.0"
+  }
+}

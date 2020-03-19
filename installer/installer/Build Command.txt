@@ -1,0 +1,1 @@
+pyinstaller -y -F -w -i "C:/Users/david/Downloads/icons8-rainbow-six-siege-100.ico" --add-data "C:/Users/david/OneDrive/Documents/EliteSkins R6 Mod Installer for Dirt/installer/installer/data/1.save";"." --uac-admin "C:/Users/david/OneDrive/Documents/EliteSkins R6 Mod Installer for Dirt/installer/installer/main.py"
